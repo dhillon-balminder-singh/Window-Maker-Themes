@@ -1,0 +1,59 @@
+#A theme like Macintosh Sytem 6 for Windowmaker.
+#By Dhillon, Balminder S.
+#dbs@duck.com
+
+Copyright (C) 2020  Dhillon, Balminder S.
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+
+{
+  LargeDisplayFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  HighlightColor = "#000000";
+  MenuTextExtendSpace = 0;
+  FTitleColor = "#000000";
+  MenuTitleExtendSpace = 0;
+  MenuTextFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  WorkspaceBack = (solid, "#7F7F7F");
+  UTitleBack = (solid, "#000000");
+  NormalCursor = (builtin, left_ptr);
+  IconTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=9";
+  PTitleBack = (solid, "#ffffff");
+  MoveCursor = (bitmap, dot_move.xbm, dot_move_mask.xbm);
+  WindowTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  UTitleColor = "#ffffff";
+  MenuDisabledColor = "#636563";
+  ClipTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  MenuStyle = flat;
+  MenuTextBack = (solid, "#ffffff");
+  ResizeCursor = (bitmap, dot_resize.xbm, dot_resize_mask.xbm);
+  PTitleColor = "#ffffff";
+  IconBack = (solid, "#ffffff");
+  MenuTitleBack = (solid, "#ffffff");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  FTitleBack = (solid, "#ffffff");
+  WindowTitleExtendSpace = 0;
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (solid, "#ffffff");
+  MenuTextColor = "#000000";
+  ClipTitleColor = black;
+  IconTitleBack = "#000000";
+  HighlightTextColor = "#ffffff";
+  WaitCursor = (bitmap, dot_wait.xbm, dot_wait_mask.xbm);
+  IconTitleColor = white;
+  MenuTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  MenuTitleColor = "#000000";
+}
