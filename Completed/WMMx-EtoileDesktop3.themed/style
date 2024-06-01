@@ -1,0 +1,47 @@
+#Copyright (C) 2020  Dhillon, Balminder S.
+
+#This program is free software; you can redistribute it and/or
+#modify it under the terms of the GNU General Public License
+#as published by the Free Software Foundation; either version 2
+#of the License, or (at your option) any later version.
+
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program; if not, write to the Free Software
+#Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+{
+  LargeDisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=24";
+  HighlightColor = "#0000ff";
+  FTitleColor = "#000000";
+  MenuTextFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  WorkspaceBack = (solid, "rgb:50/50/75");
+  UTitleBack = (tpixmap, tile3.tif, "#000000");
+  IconTitleFont = "Arial,Luxi Sans:pixelsize=9";
+  PTitleBack = (tpixmap, tile2.tif, "#000000");
+  WindowTitleFont = "Droid Sans:slant=0:weight=200:width=100:pixelsize=12";
+  UTitleColor = "#525152";
+  ClipTitleFont = "Verdana:bold:pixelsize=10";
+  MenuDisabledColor = "#636563";
+  MenuStyle = flat;
+  MenuTextBack = (solid, "#fffbff");
+  PTitleColor = "#000000";
+  IconBack = (spixmap, tile5.tif, "#fffbff");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  MenuTitleBack = (tpixmap, tile1.tif, "#000000");
+  FTitleBack = (tpixmap, tile1.tif, "#000000");
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (solid, "#a2a0a5");
+  MenuTextColor = "#000000";
+  ClipTitleColor = black;
+  IconTitleBack = "#384246";
+  HighlightTextColor = "#ffffff";
+  IconTitleColor = white;
+  MenuTitleFont = "Trebuchet MS,Luxi Sans:bold:pixelsize=12";
+  MenuTitleColor = "#000000";
+}

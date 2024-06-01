@@ -1,0 +1,54 @@
+#Copyright (C) 2020  Dhillon, Balminder S.
+
+#This program is free software; you can redistribute it and/or
+#modify it under the terms of the GNU General Public License
+#as published by the Free Software Foundation; either version 2
+#of the License, or (at your option) any later version.
+
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program; if not, write to the Free Software
+#Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+{
+  LargeDisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=24";
+  HighlightColor = "#4a59d6";
+  MenuTextExtendSpace = "-1";
+  FTitleColor = "#ffffff";
+  MenuTitleExtendSpace = "-1";
+  MenuTextFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  WorkspaceBack = (solid, "rgb:50/50/75");
+  UTitleBack = (tvgradient, tile2.png, 92, "#c6bec6", "#848284");
+  NormalCursor = (builtin, left_ptr);
+  IconTitleFont = "Arial,Luxi Sans:pixelsize=9";
+  PTitleBack = (tpixmap, x.png, "#000000");
+  MoveCursor = (bitmap, dot_move.xbm, dot_move_mask.xbm);
+  WindowTitleFont = "Trebuchet MS,Luxi Sans:weight=200:pixelsize=12";
+  UTitleColor = "#000000";
+  MenuDisabledColor = "#636563";
+  ClipTitleFont = "Verdana:bold:pixelsize=10";
+  MenuStyle = normal;
+  MenuTextBack = (spixmap, x.png, "#a59ea5");
+  ResizeCursor = (bitmap, dot_resize.xbm, dot_resize_mask.xbm);
+  PTitleColor = "#000000";
+  IconBack = (tvgradient, tile1.png, 180, "#000000", "#0000ff");
+  MenuTitleBack = (hgradient, "rgb:50/5a/5e", "rgb:20/2a/2e");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  FTitleBack = (tvgradient, tile2.png, 208, "#787aff", "#0000ff");
+  WindowTitleExtendSpace = "-1";
+  TitleJustify = left;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (tpixmap, x.png, "#a59ea5");
+  MenuTextColor = "#000000";
+  ClipTitleColor = black;
+  IconTitleBack = "#384246";
+  HighlightTextColor = "#000000";
+  WaitCursor = (bitmap, dot_wait.xbm, dot_wait_mask.xbm);
+  IconTitleColor = white;
+  MenuTitleFont = "Trebuchet MS,Luxi Sans:bold:pixelsize=12";
+  MenuTitleColor = "#ffffff";
+}
