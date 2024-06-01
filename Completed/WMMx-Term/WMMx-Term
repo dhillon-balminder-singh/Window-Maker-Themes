@@ -1,0 +1,49 @@
+#Copyright (C) 2020  Dhillon, Balminder S.
+
+#This program is free software; you can redistribute it and/or
+#modify it under the terms of the GNU General Public License
+#as published by the Free Software Foundation; either version 2
+#of the License, or (at your option) any later version.
+
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program; if not, write to the Free Software
+#Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+{
+  LargeDisplayFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  HighlightColor = "#00ff00";
+  MenuTextExtendSpace = "-1";
+  FTitleColor = "#00ff00";
+  MenuTitleExtendSpace = "-1";
+  MenuTextFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  UTitleBack = (solid, "#000000");
+  IconTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=14";
+  PTitleBack = (solid, "#000000");
+  WindowTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  UTitleColor = "#808080";
+  MenuDisabledColor = "#292929";
+  ClipTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  MenuStyle = flat;
+  MenuTextBack = (solid, "#000000");
+  PTitleColor = "#000000";
+  IconBack = (solid, "#000000");
+  MenuTitleBack = (solid, "#000000");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  FTitleBack = (solid, "#000000");
+  WindowTitleExtendSpace = "-1";
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (solid, "#808080");
+  MenuTextColor = "#00ff00";
+  ClipTitleColor = black;
+  IconTitleBack = "#262626";
+  HighlightTextColor = "#000000";
+  IconTitleColor = "#ffffff";
+  MenuTitleFont = "ChicagoFLF:slant=0:weight=100:width=100:pixelsize=12";
+  MenuTitleColor = "#00ff00";
+}

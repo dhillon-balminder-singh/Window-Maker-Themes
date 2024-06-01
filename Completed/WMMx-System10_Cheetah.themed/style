@@ -1,0 +1,47 @@
+#Copyright (C) 2020  Dhillon, Balminder S.
+
+#This program is free software; you can redistribute it and/or
+#modify it under the terms of the GNU General Public License
+#as published by the Free Software Foundation; either version 2
+#of the License, or (at your option) any later version.
+
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program; if not, write to the Free Software
+#Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+{
+  LargeDisplayFont = "Droid Sans:slant=0:weight=200:width=100:pixelsize=16";
+  HighlightColor = "#000000";
+  FTitleColor = "#000000";
+  MenuTextFont = "Droid Sans:slant=0:weight=80:width=100:pixelsize=12";
+  WorkspaceBack = (solid, "rgb:46/5A/D6");
+  UTitleBack = (thgradient, tile1.tif, 237, "#d4d4d4", "#d4d4d4");
+  IconTitleFont = "Droid Sans:slant=0:weight=200:width=100:pixelsize=10";
+  PTitleBack = (hgradient, "#ffffff", "#ffffff");
+  WindowTitleFont = "Droid Sans:slant=0:weight=200:width=100:pixelsize=12";
+  UTitleColor = "#404040";
+  ClipTitleFont = "Droid Sans:slant=0:weight=200:width=100:pixelsize=10";
+  MenuDisabledColor = "#7f7f7f";
+  MenuStyle = flat;
+  MenuTextBack = (thgradient, tile1.tif, 239, "#ffffff", "#ffffff");
+  PTitleColor = "#000000";
+  IconBack = (tdgradient, tile1.tif, 239, "#ffffff", "#ffffff");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  MenuTitleBack = (thgradient, tile1.tif, 230, "#ffffff", "#ffffff");
+  FTitleBack = (thgradient, tile1.tif, 230, "#ffffff", "#ffffff");
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (hgradient, "#ffffff", "#ffffff");
+  MenuTextColor = "#000000";
+  ClipTitleColor = black;
+  HighlightTextColor = "#ffffff";
+  MenuTitleFont = "Droid Sans:slant=0:weight=200:width=100:pixelsize=12";
+  MenuTitleColor = "#000000";
+  IconTitleBack = "#000000";
+  IconTextColor = "#FFFFFF";
+}
