@@ -1,0 +1,47 @@
+#Copyright (C) 2020  Dhillon, Balminder S.
+
+#This program is free software; you can redistribute it and/or
+#modify it under the terms of the GNU General Public License
+#as published by the Free Software Foundation; either version 2
+#of the License, or (at your option) any later version.
+
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program; if not, write to the Free Software
+#Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+{
+  LargeDisplayFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=16";
+  HighlightColor = "#00008c";
+  FTitleColor = "#d6d7d6";
+  MenuTextFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=9";
+  WorkspaceBack = (solid, "rgb:50/50/75");
+  UTitleBack = (solid, "#d6d7d6");
+  IconTitleFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=9";
+  PTitleBack = (solid, "#212021");
+  WindowTitleFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=12";
+  UTitleColor = "#848684";
+  ClipTitleFont = "DejaVu Sans:slant=0:weight=80:width=100:pixelsize=12";
+  MenuDisabledColor = "#636563";
+  MenuStyle = flat;
+  MenuTextBack = (solid, "#d6d3d6");
+  PTitleColor = "#d6d7d6";
+  IconBack = (solid, "#d6d3d6");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  MenuTitleBack = (solid, "#212021");
+  FTitleBack = (solid, "#212021");
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (solid, "#a2a0a5");
+  MenuTextColor = "#000000";
+  ClipTitleColor = black;
+  IconTitleBack = "#384246";
+  HighlightTextColor = "#ffffff";
+  IconTitleColor = white;
+  MenuTitleFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=12";
+  MenuTitleColor = "#d6d7d6";
+}

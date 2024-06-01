@@ -1,0 +1,33 @@
+
+{
+  LargeDisplayFont = "Trebuchet MS:slant=0:weight=200:width=100:pixelsize=16";
+  HighlightColor = "#525152";
+  FTitleColor = "#000000";
+  MenuTextFont = "FreeSans:slant=0:weight=80:width=100:pixelsize=12";
+  WorkspaceBack = (solid, "rgb:50/50/75");
+  UTitleBack = (solid, "#848284");
+  IconTitleFont = "FreeSans:slant=0:weight=180:width=100:pixelsize=10";
+  PTitleBack = (solid, "#5251a5");
+  WindowTitleFont = "FreeSans:slant=0:weight=180:width=100:pixelsize=12";
+  UTitleColor = "#000000";
+  ClipTitleFont = "FreeSans:slant=0:weight=180:width=100:pixelsize=12";
+  MenuDisabledColor = "#636563";
+  MenuStyle = flat;
+  MenuTextBack = (solid, "#848284");
+  PTitleColor = "#adaead";
+  IconBack = (solid, "#848284");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  MenuTitleBack = (solid, "#5251a5");
+  FTitleBack = (solid, "#5251a5");
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (solid, "#a2a0a5");
+  MenuTextColor = "#000000";
+  ClipTitleColor = black;
+  IconTitleBack = "#384246";
+  HighlightTextColor = "#d6d7d6";
+  IconTitleColor = white;
+  MenuTitleFont = "FreeSans:slant=0:weight=180:width=100:pixelsize=12";
+  MenuTitleColor = "#000000";
+  IconTitleBack = "#5251a5";
+}

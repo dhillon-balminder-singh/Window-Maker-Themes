@@ -1,0 +1,47 @@
+#Copyright (C) 2020  Dhillon, Balminder S.
+
+#This program is free software; you can redistribute it and/or
+#modify it under the terms of the GNU General Public License
+#as published by the Free Software Foundation; either version 2
+#of the License, or (at your option) any later version.
+
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program; if not, write to the Free Software
+#Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+{
+  LargeDisplayFont = "DejaVu Sans:slant=0:weight=80:width=100:pixelsize=24";
+  HighlightColor = "#848284";
+  FTitleColor = "#000000";
+  MenuTextFont = "DejaVu Sans:slant=0:weight=80:width=100:pixelsize=12";
+  WorkspaceBack = (solid, "rgb:50/50/75");
+  UTitleBack = (solid, "#fffbff");
+  IconTitleFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=10";
+  PTitleBack = (thgradient, tile1.tif, 233, "#ffffff", "#ffffff");
+  WindowTitleFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=12";
+  UTitleColor = "#d6d7d6";
+  ClipTitleFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=10";
+  MenuDisabledColor = "#7b7d7b";
+  MenuStyle = normal;
+  MenuTextBack = (thgradient, tile1.tif, 230, "#ffffff", "#ffffff");
+  PTitleColor = "#000000";
+  IconBack = (tdgradient, tile1.tif, 233, "#ffffff", "#ffffff");
+  DisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  MenuTitleBack = (thgradient, tile1.tif, 233, "#ffffff", "#ffffff");
+  FTitleBack = (thgradient, tile1.tif, 233, "#ffffff", "#ffffff");
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (solid, "#848284");
+  MenuTextColor = "#000000";
+  ClipTitleColor = black;
+  IconTitleBack = "#ffffff";
+  HighlightTextColor = "#000000";
+  IconTitleColor = "#000000";
+  MenuTitleFont = "DejaVu Sans:slant=0:weight=200:width=100:pixelsize=12";
+  MenuTitleColor = "#000000";
+}
